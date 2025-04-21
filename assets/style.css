@@ -9,9 +9,9 @@
 
 body {
 
-	background: url("https://raw.githubusercontent.com/Rph-nsmb/contests/refs/heads/main/assets/background.png") repeat-x repeat-y;
+	background: url("https://raw.githubusercontent.com/Rph-nsmb/contests/refs/heads/main/assets/background.png");
+	background-size: 200%;
 	font-family: Mario;
-
 	text-align: center;
 }
 
