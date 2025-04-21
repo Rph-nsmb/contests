@@ -17,6 +17,8 @@ body {
 
 .DS {
 
+	display: flex;
+	flex-align:center;
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
@@ -26,5 +28,5 @@ body {
 
 .DS:hover {
 
-	width:90%;
+	width:70%;
 }
